@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_270530_githubint_githubintegration_table">x_270530_githubint_githubintegration_table</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>GIT</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-10 17:30:38</sys_created_on>
+        <sys_id>395a69d4db202300e1d95385ca9619ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GIT</sys_name>
+        <sys_package display_value="GithubIntegration" source="x_270530_githubint">d95a2514db202300e1d95385ca96198a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GithubIntegration">d95a2514db202300e1d95385ca96198a</sys_scope>
+        <sys_update_name>sys_number_395a69d4db202300e1d95385ca9619ca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-10 17:30:38</sys_updated_on>
+    </sys_number>
+</record_update>
